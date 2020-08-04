@@ -1,3 +1,9 @@
+# Next Level Week 2.0 - Front End
+
+Project produced at the 2nd Next Level Week promoted by Rocketseat. A week to motivate people to elevate their careers as programmers getting to know Node.JS, React and React Native for Front-end, Back-end and Mobile development.
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
